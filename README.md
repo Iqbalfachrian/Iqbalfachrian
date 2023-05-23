@@ -1,16 +1,38 @@
-### Hi there 👋
+![emoji](https://github.com/Iqbalfachrian/Iqbalfachrian/assets/101652940/3bfd8cb1-3670-4a98-adfc-3c3f800ead49)
 
-<!--
-**Iqbalfachrian/Iqbalfachrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World 👋
 
-Here are some ideas to get you started:
+#### My name is Iqbal Fachrian👨‍💻. I'm a Software QA with a main focus on automation testing. In this portfolio, I'd like to showcase my experience and skills in automated testing using tools like Cypress and Katalon Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Projects 
+
+#### Below are some of the projects I have completed that demonstrate my automation skills using Cypress and Katalon Studio:
+
+### Project 1
+
+Description : This project is an example implementation of mobile record automation testing using Katalon Studio
+
+Repository : https://github.com/Iqbalfachrian/eduwork-realProduct
+
+### Project 2
+
+Description : This project is an example implementation of mobile spy record automation testing using Katalon Studio
+
+Repository : https://github.com/Iqbalfachrian/eduwork-section10
+
+### Project 3
+
+Description : This project is an example implementation BDD using Cypress
+
+Repository : https://github.com/Iqbalfachrian/eduwork-iqbal/tree/section_7
+
+## Contact
+
+If you have questions, feedback, or want to collaborate, feel free to contact me via iqbalf.dev@gmail.com
+
+
+
+[Linkedin](linkedin.com/in/iqbalfachrian)
+
+Thanks for visiting my portfolio!
+
