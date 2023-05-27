@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-#### My name is Iqbal Fachrian👨‍💻. I'm a Software QA with a main focus on automation testing. I'd like to showcase my experience and skills in automated testing using tools like Cypress and Katalon Studio.
+#### My name is Iqbal Fachrian👨‍💻. I'm a Junior Software QA with a main focus on automation testing. I'd like to showcase my experience and skills in automated testing using tools like Cypress and Katalon Studio.
 
 #### My Projects 
 
