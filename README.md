@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-#### My name is Iqbal Fachrian👨‍💻. I'm a Software QA with a main focus on automation testing. In this portfolio, I'd like to showcase my experience and skills in automated testing using tools like Cypress and Katalon Studio.
+#### My name is Iqbal Fachrian👨‍💻. I'm a Software QA with a main focus on automation testing. I'd like to showcase my experience and skills in automated testing using tools like Cypress and Katalon Studio.
 
 #### My Projects 
 
@@ -31,6 +31,7 @@ If you have questions, feedback, or want to collaborate, feel free to contact me
 
 
 [Linkedin](linkedin.com/in/iqbalfachrian)
+[Portofolio](iqbalf.vercel.app)
 
-Thanks for visiting my portfolio!
+Thanks for visiting my profile!
 
