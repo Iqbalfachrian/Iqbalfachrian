@@ -30,8 +30,9 @@ If you have questions, feedback, or want to collaborate, feel free to contact me
 
 
 
-[Linkedin](linkedin.com/in/iqbalfachrian)
-[Portofolio](iqbalf.vercel.app)
+🔗  [Linkedin](linkedin.com/in/iqbalfachrian)
+<br>
+🔗 [Portofolio](iqbalf.vercel.app)
 
 Thanks for visiting my profile!
 
