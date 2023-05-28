@@ -32,7 +32,8 @@ If you have questions, feedback, or want to collaborate, feel free to contact me
 
 🔗  [Linkedin](linkedin.com/in/iqbalfachrian)
 <br>
-🔗 [Portofolio](https://iqbaalf.vercel.app/){:target="_blank"} 
+🔗 <a href="(https://iqbaalf.vercel.app)" onclick="window.open(this.href,'_blank');return false;">Portofolio</a>
+
 
 Thanks for visiting my profile!
 
